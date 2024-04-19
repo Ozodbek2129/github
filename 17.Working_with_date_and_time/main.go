@@ -55,4 +55,5 @@ func main(){
 		fmt.Println("Yangi filega yozishda xatolik?")
 		return
 	}
+	fmt.Println("Yangi json file yaratildi va uni ichiga eski json file dagi malumotlarga o'zgartirish kiritildi va yozildi.")
 }
